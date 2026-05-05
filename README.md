@@ -13,9 +13,8 @@ Tecnología de Desarrollo de Sistemas Informáticos
 
 | Nombre Completo | Cédula |
 |---|---|
-| [Nombre Estudiante 1] | [Cédula 1] |
-| [Nombre Estudiante 2] | [Cédula 2] |
-| [Nombre Estudiante 3] | [Cédula 3] |
+| [Juan David Barrientos] | [1116495403] |
+
 
 ---
 
